@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hello World!"
-date
+date +%d%m%Y
 
